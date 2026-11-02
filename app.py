@@ -91,6 +91,6 @@ with tab_batch:
     st.subheader("Response queue (highest priority first)")
     cols = [c for c in ["priority", "crisis", "business", "location", "platform", "rating",
                         "sentiment", "aspects", "text"] if c in res]
-    st.dataframe(res.sort_values("priority", ascending=False)[cols], use_container_width=True,
+    st.dataframe(res.sort_values("priority", ascending=False)[cols], width="stretch",
                  hide_index=True)
     st.download_button("Download triaged CSV", res.to_csv(index=False), "revio_triaged.csv")
