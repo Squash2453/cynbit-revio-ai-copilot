@@ -1,0 +1,19 @@
+text,rating,label_sentiment,label_crisis
+"Absolutely loved the biryani, and the waiter suggested a lovely dessert",5,positive,0
+"Booked a consultation online in two minutes, doctor explained everything clearly",5,positive,0
+"Kurta fits perfectly and the fabric feels premium",4,positive,0
+"Dashboard is intuitive, our event team set it up in an afternoon",5,positive,0
+"Pleasant ambience and reasonable rates, would visit again",4,positive,0
+"Receptionist ignored us for twenty minutes while chatting on her phone",1,negative,0
+"Ordered a jacket, got the wrong size and exchange is a nightmare",2,negative,0
+"Paneer tasted sour, clearly not fresh",1,negative,0
+"App logs me out every time I try to pay",2,negative,0
+"Billing counter added items we never ordered",1,negative,0
+"Room was filthy and the bedsheets had stains",1,negative,0
+"Nothing to complain about but nothing memorable either",3,neutral,0
+"Service was alright, a bit crowded on weekends",3,neutral,0
+"Food was fine, ambience could improve",3,neutral,0
+"My son was hospitalised with food poisoning after dinner here",1,negative,1
+"They took money from my account twice and now ignore my calls, total scam",1,negative,1
+"The security guard threatened my friend, we have gone to the police",1,negative,1
+"Lab mixed up my reports and I was given the wrong medicine",1,negative,1
