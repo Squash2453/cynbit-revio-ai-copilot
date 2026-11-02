@@ -1,0 +1,5 @@
+streamlit>=1.35
+pandas>=2.0
+scikit-learn>=1.4
+openai>=1.30  # optional: only used when OPENAI_API_KEY is set
+pytest>=8.0
