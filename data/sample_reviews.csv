@@ -1,0 +1,73 @@
+review_id,business,vertical,location,platform,rating,text,label_sentiment,label_aspects,label_crisis
+1,Pragya Healths,clinic,Jaipur - Malviya Nagar,Google,4,Booking through the website was seamless. Will definitely come back.,positive,app_experience,0
+2,Pragya Healths,clinic,Jaipur - Vaishali Nagar,Google,3,"It was okay, nothing special.",neutral,general,0
+3,Pragya Healths,clinic,Jaipur - Vaishali Nagar,Instagram,4,"No waiting at all, I was attended within five minutes. Highly recommend!",positive,wait_time,0
+4,Pragya Healths,clinic,Jaipur - Vaishali Nagar,Instagram,2,Way too expensive for what you get. The manager was arrogant and refused to listen.,negative,price|staff,0
+5,Pragya Healths,clinic,Jaipur - Vaishali Nagar,Facebook,4,The staff were warm and really helpful.,positive,staff,0
+6,Pragya Healths,clinic,Jaipur - Malviya Nagar,Justdial,3,"Visited once, it was fine I guess.",neutral,general,0
+7,Pragya Healths,clinic,Jaipur - Vaishali Nagar,Google,3,"It was okay, nothing special.",neutral,general,0
+8,Pragya Healths,clinic,Jaipur - Vaishali Nagar,Instagram,3,"Visited once, it was fine I guess.",neutral,general,0
+9,Pragya Healths,clinic,Jaipur - Malviya Nagar,Google,4,The app is smooth and easy to use. Loved it.,positive,app_experience,0
+10,Pragya Healths,clinic,Jaipur - Vaishali Nagar,Facebook,1,"Cheap material, very disappointing quality. Avoid.",negative,quality,0
+11,Pragya Healths,clinic,Jaipur - Vaishali Nagar,Justdial,4,Prices are fair for the quality. The app is smooth and easy to use. Will definitely come back.,positive,price|app_experience,0
+12,Pragya Healths,clinic,Jaipur - Malviya Nagar,Facebook,1,"The app keeps crashing at checkout. Unhygienic place, dust everywhere. Never coming back.",negative,app_experience|cleanliness,0
+13,Pragya Healths,clinic,Jaipur - Vaishali Nagar,Justdial,1,The staff were rude and dismissive. Avoid.,negative,staff,0
+14,Pragya Healths,clinic,Jaipur - Vaishali Nagar,Justdial,2,Way too expensive for what you get. Very disappointed.,negative,price,0
+15,Pragya Healths,clinic,Jaipur - Malviya Nagar,Google,1,"Took forever, extremely slow service.",negative,wait_time,0
+16,Pragya Healths,clinic,Jaipur - Vaishali Nagar,Facebook,5,Service was quick and on time. The app is smooth and easy to use.,positive,wait_time|app_experience,0
+17,Pragya Healths,clinic,Jaipur - Malviya Nagar,Google,1,"My card details were leaked after using the app, this is fraud. Never coming back.",negative,general,1
+18,Pragya Healths,clinic,Jaipur - Vaishali Nagar,Google,1,I will take legal action and go to the consumer court. Avoid.,negative,general,1
+19,Urban Wardrobe,retail,Online Store,Facebook,4,The quality is excellent.,positive,quality,0
+20,Urban Wardrobe,retail,Online Store,Google,3,Average experience overall.,neutral,general,0
+21,Urban Wardrobe,retail,Online Store,Google,1,The washroom was dirty and smelled bad. My order arrived late and the box was damaged. Avoid.,negative,cleanliness|delivery,0
+22,Urban Wardrobe,retail,Delhi - Saket,Google,3,"Visited once, it was fine I guess.",neutral,general,0
+23,Urban Wardrobe,retail,Jaipur - WTP Mall,Google,4,Order was packed well and delivered on time. Will definitely come back.,positive,delivery,0
+24,Urban Wardrobe,retail,Online Store,Instagram,5,Product quality is top notch. The staff were warm and really helpful. Will definitely come back.,positive,quality|staff,0
+25,Urban Wardrobe,retail,Delhi - Saket,Facebook,2,Still waiting for my delivery after ten days. The washroom was dirty and smelled bad. Very disappointed.,negative,delivery|cleanliness,0
+26,Urban Wardrobe,retail,Jaipur - WTP Mall,Instagram,2,The quality was poor and it fell apart in a week. The staff were rude and dismissive. Never coming back.,negative,quality|staff,0
+27,Urban Wardrobe,retail,Jaipur - WTP Mall,Google,3,Average experience overall.,neutral,general,0
+28,Urban Wardrobe,retail,Online Store,Instagram,4,The staff were warm and really helpful. Loved it.,positive,staff,0
+29,Urban Wardrobe,retail,Delhi - Saket,Justdial,1,"Cheap material, very disappointing quality. I waited almost two hours past my slot.",negative,quality|wait_time,0
+30,Urban Wardrobe,retail,Delhi - Saket,Justdial,5,The team went out of their way to help me.,positive,staff,0
+31,Urban Wardrobe,retail,Delhi - Saket,Facebook,1,The manager was arrogant and refused to listen. Payment failed twice on the app. Never coming back.,negative,staff|app_experience,0
+32,Urban Wardrobe,retail,Delhi - Saket,Instagram,4,"No waiting at all, I was attended within five minutes.",positive,wait_time,0
+33,Urban Wardrobe,retail,Jaipur - WTP Mall,Google,1,I waited almost two hours past my slot.,negative,wait_time,0
+34,Urban Wardrobe,retail,Jaipur - WTP Mall,Justdial,5,Service was quick and on time.,positive,wait_time,0
+35,Urban Wardrobe,retail,Delhi - Saket,Google,1,I got food poisoning after eating here. Very disappointed.,negative,general,1
+36,Urban Wardrobe,retail,Delhi - Saket,Google,1,I got food poisoning after eating here.,negative,general,1
+37,Wild Basil,restaurant,Jaipur - C Scheme,Facebook,1,"Cheap material, very disappointing quality.",negative,quality,0
+38,Wild Basil,restaurant,Jaipur - C Scheme,Justdial,4,The place was spotless and hygienic. Loved it.,positive,cleanliness,0
+39,Wild Basil,restaurant,Jaipur - C Scheme,Google,3,Average experience overall.,neutral,general,0
+40,Wild Basil,restaurant,Jaipur - C Scheme,Instagram,5,The place was spotless and hygienic. Will definitely come back.,positive,cleanliness,0
+41,Wild Basil,restaurant,Jaipur - C Scheme,Justdial,3,"It was okay, nothing special.",neutral,general,0
+42,Wild Basil,restaurant,Jaipur - Raja Park,Instagram,3,"Visited once, it was fine I guess.",neutral,general,0
+43,Wild Basil,restaurant,Jaipur - Raja Park,Facebook,2,They overcharged me and added hidden charges to the bill. Very disappointed.,negative,price,0
+44,Wild Basil,restaurant,Jaipur - C Scheme,Facebook,4,Product quality is top notch. Highly recommend!,positive,quality,0
+45,Wild Basil,restaurant,Jaipur - C Scheme,Justdial,5,The staff were warm and really helpful. Loved it.,positive,staff,0
+46,Wild Basil,restaurant,Jaipur - C Scheme,Facebook,3,"Visited once, it was fine I guess.",neutral,general,0
+47,Wild Basil,restaurant,Jaipur - Raja Park,Facebook,4,Prices are fair for the quality. Highly recommend!,positive,price,0
+48,Wild Basil,restaurant,Jaipur - Raja Park,Instagram,3,Average experience overall.,neutral,general,0
+49,Wild Basil,restaurant,Jaipur - C Scheme,Google,2,The quality was poor and it fell apart in a week. Way too expensive for what you get.,negative,quality|price,0
+50,Wild Basil,restaurant,Jaipur - Raja Park,Google,2,Login is broken and the website is painfully slow. Very disappointed.,negative,app_experience,0
+51,Wild Basil,restaurant,Jaipur - C Scheme,Justdial,5,The app is smooth and easy to use. Highly recommend!,positive,app_experience,0
+52,Wild Basil,restaurant,Jaipur - C Scheme,Instagram,5,Great value for money. Highly recommend!,positive,price,0
+53,Wild Basil,restaurant,Jaipur - Raja Park,Google,1,I will take legal action and go to the consumer court. Never coming back.,negative,general,1
+54,Wild Basil,restaurant,Jaipur - C Scheme,Google,1,"My card details were leaked after using the app, this is fraud.",negative,general,1
+55,Evento,saas,Web App,Facebook,4,Delivery arrived a day early.,positive,delivery,0
+56,Evento,saas,Android App,Google,1,My order arrived late and the box was damaged. Login is broken and the website is painfully slow. Very disappointed.,negative,delivery|app_experience,0
+57,Evento,saas,Web App,Instagram,2,The delay was ridiculous and nobody updated us. Avoid.,negative,wait_time,0
+58,Evento,saas,Android App,Justdial,5,Service was quick and on time. Everything was fresh and well made. Highly recommend!,positive,wait_time|quality,0
+59,Evento,saas,Web App,Google,3,"Visited once, it was fine I guess.",neutral,general,0
+60,Evento,saas,Android App,Facebook,1,"Unhygienic place, dust everywhere. Never coming back.",negative,cleanliness,0
+61,Evento,saas,Android App,Google,1,The washroom was dirty and smelled bad.,negative,cleanliness,0
+62,Evento,saas,Web App,Facebook,2,The washroom was dirty and smelled bad. Avoid.,negative,cleanliness,0
+63,Evento,saas,Web App,Facebook,3,"Visited once, it was fine I guess.",neutral,general,0
+64,Evento,saas,Android App,Facebook,3,"Visited once, it was fine I guess.",neutral,general,0
+65,Evento,saas,Web App,Facebook,2,Way too expensive for what you get. The washroom was dirty and smelled bad.,negative,price|cleanliness,0
+66,Evento,saas,Android App,Justdial,2,Still waiting for my delivery after ten days. Nobody at the counter bothered to help. Very disappointed.,negative,delivery|staff,0
+67,Evento,saas,Web App,Facebook,1,The app keeps crashing at checkout.,negative,app_experience,0
+68,Evento,saas,Web App,Instagram,3,"Visited once, it was fine I guess.",neutral,general,0
+69,Evento,saas,Web App,Instagram,1,My order arrived late and the box was damaged. Very disappointed.,negative,delivery,0
+70,Evento,saas,Android App,Justdial,2,Still waiting for my delivery after ten days. Nobody at the counter bothered to help. Very disappointed.,negative,delivery|staff,0
+71,Evento,saas,Web App,Google,1,"They charged my card twice and refused a refund, this is a scam. Very disappointed.",negative,general,1
+72,Evento,saas,Web App,Google,1,I got food poisoning after eating here.,negative,general,1
